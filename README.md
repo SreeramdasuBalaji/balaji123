@@ -1,2 +1,4 @@
-# balaji123
-balaji123
+a=10
+b=10
+c=a+b
+c=20
